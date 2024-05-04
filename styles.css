@@ -1,0 +1,51 @@
+.container {
+    max-width: 600px; /* Reduced container width */
+}
+
+.input-box {
+    background-color: #fff;
+    padding: 20px; /* Reduced padding */
+}
+
+.form-control {
+    border-radius: 5px;
+    font-size: 1rem; /* Reduced font size */
+}
+
+.btn-primary,
+.btn-secondary {
+    width: auto; /* Adjust button width */
+    margin-top: 0; /* Remove top margin */
+}
+
+.custom-heading {
+    color: black;
+    font-family: 'Arial', sans-serif;
+    font-size: 2rem; /* Reduced font size */
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.custom-share-btn {
+    color: green;
+}
+
+.center-btn-container {
+    text-align: center;
+}
+.outer-box {
+    border: 1px solid #ccc; /* Add border */
+    padding: 20px; /* Add padding */
+    border-radius: 10px; /* Add border radius */
+    max-width: 600px; /* Reduced container width */
+    margin: 50px auto; /* Center the box */
+}
+
+.input-box {
+    background-color: #fff;
+    padding: 20px; /* Reduced padding */
+}
+
+/* Rest of your CSS styles remain the same */
+
